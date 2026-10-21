@@ -1,5 +1,5 @@
 /* Made For More interactions. Configure FORM_ENDPOINT below after creating your Formspree form. */
-const FORM_ENDPOINT = "https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID";
+const FORM_ENDPOINT = "https://formspree.io/f/mjygneno";
 
 const menuButton = document.querySelector('.menu-toggle');
 const navLinks = document.querySelector('.nav-links');
