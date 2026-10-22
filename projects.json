@@ -1,62 +1,12 @@
 [
   {
-    "id": "northstar-studio",
-    "title": "Northstar Studio",
+    "id": "apex-pet-service",
+    "title": "Apex Pet Service",
     "category": "Website",
-    "description": "A clean, conversion-minded website for an independent creative studio, designed to make their work and point of view shine.",
-    "shortDescription": "A confident new online home for an independent creative studio.",
-    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1000&q=80",
-    "alt": "Sunlit creative studio interior",
-    "link": "https://example.com"
-  },
-  {
-    "id": "good-energy-film",
-    "title": "Good Energy, in motion",
-    "category": "Video",
-    "description": "A social-first edit series that brought a local wellness brand's people, process and personality into focus.",
-    "shortDescription": "A social-first video series with the people at its heart.",
-    "image": "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?auto=format&fit=crop&w=1000&q=80",
-    "alt": "Filmmaker recording a creative project",
-    "link": "https://example.com"
-  },
-  {
-    "id": "makers-month",
-    "title": "Makers Month",
-    "category": "Publishing",
-    "description": "A month-long campaign celebrating local makers, pairing thoughtful storytelling with a coordinated publishing plan.",
-    "shortDescription": "A campaign that put local makers in the spotlight.",
-    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1000&q=80",
-    "alt": "Notebook and pen on a warm desk",
-    "link": "https://example.com"
-  },
-  {
-    "id": "field-notes",
-    "title": "Field Notes Co.",
-    "category": "Website",
-    "description": "A warm, editorial e-commerce experience for a small-batch goods brand ready to grow beyond word of mouth.",
-    "shortDescription": "An editorial storefront for small-batch goods.",
-    "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=1000&q=80",
-    "alt": "Carefully arranged home and lifestyle products",
-    "link": "https://example.com"
-  },
-  {
-    "id": "small-wins",
-    "title": "Small Wins",
-    "category": "Video",
-    "description": "Short, human stories edited into a set of energetic vertical videos for a community-first nonprofit.",
-    "shortDescription": "Human stories shaped for the vertical screen.",
-    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80",
-    "alt": "Smiling person in natural light",
-    "link": "https://example.com"
-  },
-  {
-    "id": "open-doors",
-    "title": "Open Doors Week",
-    "category": "Publishing",
-    "description": "A multi-channel publicity push helping a neighborhood organization share its work and invite new people in.",
-    "shortDescription": "A community campaign built around a warm invitation.",
-    "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1000&q=80",
-    "alt": "Friends gathering outdoors in a community setting",
-    "link": "https://example.com"
+    "description": "A website for a local veterinary and pet-care business, giving pet owners a clear place to learn more about the service.",
+    "shortDescription": "A website project for a local veterinary and pet-care business.",
+    "image": "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?auto=format&fit=crop&w=1000&q=80",
+    "alt": "Veterinarian caring for a dog",
+    "link": "https://apexpetservice.vercel.app/"
   }
 ]
